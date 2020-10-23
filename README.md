@@ -7,6 +7,8 @@
 
 ## This is a leech to FILE repo! Leech to STREAM(video) availabe here > [Stream](https://github.com/prgofficial/TorrentLeech-GDriVe/tree/stream)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 # Benefits :-
     ✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
